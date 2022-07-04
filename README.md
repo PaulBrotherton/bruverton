@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bruverton
-- 👀 I’m interested in algorithmic trading 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on algo trading models
+- 👋 Hi, I’m Paul
+- 👀 Interested in algorithmic trading 
+- 🌱 Currently learning python 
+- 💞️ Algo trading models
 - 📫 How to reach me pgbmarkets@gmail.com
 
 <!---
